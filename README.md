@@ -9,3 +9,4 @@ Visit the catalog page [here](http://shop.oreilly.com/product/0636920028529.do).
 
 See an error? Report it [here](http://oreilly.com/catalog/errata.csp?isbn=0636920028529), or simply fork and send us a pull request.
 
+RW 2014-11-02:  I think the format of their GitHub repo has changed since book was written.  Should be a direct link to "Rolling Sales Update" on front page.  It is probably now contained in the .zip file, but I haven't looked yet.
